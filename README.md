@@ -1,8 +1,11 @@
-# Descripción del proyecto
-Rusty Bargain es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado.
+## Market Value Prediction for Rusty Bargain
 
-A Rusty Bargain le interesa:
+Description:
 
-la calidad de la predicción
-la velocidad de la predicción
-el tiempo requerido para el entrenamiento
+Rusty Bargain, a used car sales service, is developing an app to attract new customers by providing quick market value estimates for cars. You have access to data on vehicle history, technical specifications, equipment versions, and pricing. Your task is to build a model that accurately determines the market value of a car.
+
+Objectives:
+
+Assess the quality of the market value predictions.
+Evaluate the speed of predictions.
+Measure the time required for model training.
